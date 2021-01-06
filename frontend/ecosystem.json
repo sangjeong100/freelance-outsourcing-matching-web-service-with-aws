@@ -1,0 +1,6 @@
+{
+	"name": "FOM_front",
+	"script": "npm",
+	"args": "start",
+	"watch" : true
+}

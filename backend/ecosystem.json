@@ -1,0 +1,6 @@
+ {
+	"name": "FOM_server",
+	"script": "npm",
+	"args" : "start",
+	"watch" : true
+ }
