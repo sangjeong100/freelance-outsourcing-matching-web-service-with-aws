@@ -91,3 +91,9 @@
 ###
 4.3.	사용된 기술
 -	Mongoose (backend와 MongoDB 연결), Bootstrap(전체적인 UI 구성의 틀), Axios (backend와 frontend의 통신), Express (backend 구성), React-router-dom, 테스트코드, email전송 기능(emailJS), aws의 ec2와 s3, jquery, jquery.cookie, react-paginate, ckeditor4 등등 
+
+
+## 소개 영상
+
+https://user-images.githubusercontent.com/56123201/119327287-c7b06880-bcbd-11eb-8a50-6f63b8fe48c0.mp4
+
