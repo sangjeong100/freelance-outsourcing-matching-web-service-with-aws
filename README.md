@@ -73,6 +73,7 @@
 3.4.	REST Architecture 구조를 따라 설계
 - 글쓰기CRUD, 댓글 CRUD, 회원정보 수정 등에서 HTTP method인 get, post, put, delete를 사용하여 REST Architecture구조로 설계하였다. 
 - 아래 [그림4]는 REST Architecture 중 put 예제이다.
+
 ![image](https://user-images.githubusercontent.com/56123201/119325089-7ef7b000-bcbb-11eb-953d-cd540a779fe1.png)
 [그림4] CommentForm.js에서 comment 수정부분
 
